@@ -1,4 +1,14 @@
-## Hi there 👋
+## Привет, я Константин 👋
+
+Я учусь
+
+## Мои навыки
+- Java
+- TypeScript / React
+
+## Проекты
+
+Я работаю над сайтом для разработчиков.
 
 <!--
 **Const-bit/Const-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
